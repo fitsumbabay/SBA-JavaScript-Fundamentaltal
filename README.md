@@ -1,9 +1,6 @@
 # SBA-JavaScript-Fundamentaltal
 
-
-
-
-
+https://github.com/fitsumbabay/SBA-JavaScript-Fundamentaltal
 // Data structures (you'll need to populate these with the provided sample data)
 const courseInfo = {
   id: 0,
